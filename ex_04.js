@@ -1,4 +1,4 @@
-partieHTML;
+partieHTML:
 <h3>
 Welcome to the javascript pool!
 Have some fun and dont forget to bring a towel.
